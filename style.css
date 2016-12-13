@@ -1,10 +1,15 @@
 #clock {
+  width: 45%;
+  margin: 5% auto;
+
 }
 
 #clock img {
+  position:absolute;
 }
 
 #hour {
+/*  transform: rotate(45deg);*/
 }
 
 #minute {
